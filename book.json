@@ -1,0 +1,96 @@
+{
+    "title": "程序员的手艺",
+    "description": "写代码也是一种手艺.",
+    "author": "mikey.zhaopeng",
+    "generator": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.2",
+    "links": {
+        "sidebar": {
+            "首页": "http://book.zhaopeng.me",
+            "手艺人博客": "http://zhaopeng.me"
+        }
+    },
+    "plugins": [
+        "disqus",
+        "sharing",
+        "-search",
+        "search-plus",
+        "advanced-emoji",
+        "github",
+        "ace",
+        "emphasize",
+        "katex",
+        "anchors",
+        "include-codeblock",
+        "tbfed-pagefooter",
+        "sectionx",
+        "expandable-chapters",
+        "codeblock-filename",
+        "baidu",
+        "sitemap",
+        "donate",
+        "local-video",
+        "toc",
+        "edit-link",
+        "rss"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "codebook-1"
+        },
+        "github": {
+            "url": "https://github.com/zhaopengme/book"
+        },
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy zhaopeng.me 2017",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "baidu": {
+            "token": "d84e726a818814d1a6d402b4453e1fbc"
+        },
+        "sitemap": {
+            "hostname": "http://book.zhaopeng.me"
+        },
+        "donate": {
+            "wechat": "http://cdn.zhaopeng.me/weixin.png",
+            "alipay": "http://cdn.zhaopeng.me/alipay.png",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "edit-link": {
+            "base": "https://github.com/zhaopengme/book/edit/master",
+            "label": "Edit This Page"
+        },
+        "rss": {
+            "title": "手艺人笔记",
+            "description": "手艺人的技术笔记",
+            "author": "mikey.zhaopeng",
+            "site_url": "http://book.zhaopeng.me/",
+            "feed_url": "/feed.xml",
+            "categories": [
+                "awesome",
+                "book",
+                "gitbook"
+            ]
+        }
+    }
+}
