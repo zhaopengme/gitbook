@@ -36,9 +36,11 @@ brew cask install anaconda
 ```
 brew cask search cuda
 ```
+
 安装
+
 ```
-brew install search anaconda
+brew cask install cuda
 ```
 
 
