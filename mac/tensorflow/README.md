@@ -57,7 +57,7 @@ brew cask install cuda
 
 ![](/_resource/mac/tensorflow/3.jpg)
 
-### 安装 CUDA Toolkit
+### 安装 cuDNN
 
 
 
