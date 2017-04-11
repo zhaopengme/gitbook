@@ -105,6 +105,22 @@ pip3 install --upgrade tensorflow-gpu # for Python 3.n and GPU
 
 ![](/_resource/mac/tensorflow/5.jpg)
 
+安装成功
+
+![](/_resource/mac/tensorflow/6.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
