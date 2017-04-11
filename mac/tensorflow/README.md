@@ -73,6 +73,10 @@ brew cask search cuDNN
 
 下载地址: https://developer.nvidia.com/rdp/cudnn-download
 
+![](/_resource/mac/tensorflow/4.jpg)
+
+
+
 
 
 
