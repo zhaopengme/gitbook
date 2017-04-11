@@ -92,6 +92,14 @@ export DYLD_LIBRARY_PATH="$DYLD_LIBRARY_PATH:$CUDA_HOME/lib"
 export PATH="$CUDA_HOME/bin:$PATH"
 ```
 
+## 安装 tensorflow
+
+```
+pip install --upgrade tensorflow      # for Python 2.7
+pip3 install --upgrade tensorflow     # for Python 3.n
+pip install --upgrade tensorflow-gpu  # for Python 2.7 and GPU
+pip3 install --upgrade tensorflow-gpu # for Python 3.n and GPU
+```
 
 
 
