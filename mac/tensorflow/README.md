@@ -94,12 +94,17 @@ export PATH="$CUDA_HOME/bin:$PATH"
 
 ## 安装 tensorflow
 
+根据需要来安装对应的版本.
+
 ```
 pip install --upgrade tensorflow      # for Python 2.7
 pip3 install --upgrade tensorflow     # for Python 3.n
 pip install --upgrade tensorflow-gpu  # for Python 2.7 and GPU
 pip3 install --upgrade tensorflow-gpu # for Python 3.n and GPU
 ```
+
+![](/_resource/mac/tensorflow/5.jpg)
+
 
 
 
