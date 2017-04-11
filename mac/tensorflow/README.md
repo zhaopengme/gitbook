@@ -33,6 +33,10 @@ brew cask install anaconda
 
 CUDA Toolkit是 NVIDIA 提供的CUDA的SDK。 只要你安装了相应版本的显卡驱动,有Toolkit就可以开发CUDA程序了.
 
+有可能不是最新版本,可以到 NVIDIA 官网手动安装最新版本.我们就使用 brew cask 提供的版本.
+
+
+
 搜索
 
 ```
