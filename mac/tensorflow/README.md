@@ -75,6 +75,7 @@ brew cask search cuDNN
 
 ![](/_resource/mac/tensorflow/4.jpg)
 
+安装
 
 ```
 tar -zxvf cudnn-8.0-osx-x64-v5.1.tgz
