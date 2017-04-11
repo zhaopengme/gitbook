@@ -10,12 +10,12 @@ mac 默认安装的是 python2.7,升级为 python3.
 brew search python
 ```
 
-![](/_resource/mac/maven/0.png)
+![](/_resource/mac/python/0.png)
 
 根据版本来安装
 
 ```
-brew install maven
+brew install python3
 ```
 
 安装成功后执行 `mvn --version` 可以查看一下是否正确.
