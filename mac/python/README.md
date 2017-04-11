@@ -18,7 +18,9 @@ brew search python
 brew install python3
 ```
 
-安装成功后执行 `mvn --version` 可以查看一下是否正确.
+安装成功后执行 `python3 --version` 可以查看一下是否正确.
+
+注意: 要用 **python3** **python3** **python3**,不要忘记 **3**,这样可以默认版本共存,以后要用3,必须要 **python3** 来执行.
 
 ![](/_resource/mac/maven/1.png)
 
