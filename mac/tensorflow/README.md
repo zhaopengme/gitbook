@@ -47,7 +47,7 @@ brew cask search cuda
 brew cask install cuda
 ```
 
-![](/_resource/mac/tensorflow/1.png)
+![](/_resource/mac/tensorflow/1.jpg)
 
 
 
