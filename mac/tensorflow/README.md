@@ -61,7 +61,17 @@ brew cask install cuda
 
 CuDNN是专门针对Deep Learning框架设计的一套GPU计算加速方案
 
+搜索
 
+```
+brew cask search cuDNN
+```
+
+哈哈,这个是搜索不到的,需要手动下载.
+
+目前最新版本是 5.1,下载 cuda8 对应的版本.
+
+下载地址: https://developer.nvidia.com/rdp/cudnn-download
 
 
 
