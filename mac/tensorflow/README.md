@@ -8,3 +8,8 @@
 
 anaconda里面集成了很多关于python科学计算的第三方库，主要是安装方便，而python是一个编译器，如果不使用anaconda，那么安装起来会比较痛苦，各个库之间的依赖性就很难连接的很好.
 
+搜索一下
+
+```
+brew cask search Anaconda
+```
