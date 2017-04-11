@@ -13,3 +13,6 @@ anaconda里面集成了很多关于python科学计算的第三方库，主要是
 ```
 brew cask search anaconda
 ```
+
+![](/_resource/mac/tensorflow/0.png)
+
