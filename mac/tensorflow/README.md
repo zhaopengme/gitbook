@@ -53,6 +53,12 @@ brew cask install cuda
 
 ![](/_resource/mac/tensorflow/2.jpg)
 
+安装成功
+
+![](/_resource/mac/tensorflow/3.jpg)
+
+
+
 
 
 
