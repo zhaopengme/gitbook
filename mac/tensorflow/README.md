@@ -11,5 +11,5 @@ anaconda里面集成了很多关于python科学计算的第三方库，主要是
 搜索一下
 
 ```
-brew cask search Anaconda
+brew cask search anaconda
 ```
