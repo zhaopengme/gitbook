@@ -76,6 +76,14 @@ brew cask search cuDNN
 ![](/_resource/mac/tensorflow/4.jpg)
 
 
+```
+tar -zxvf cudnn-8.0-osx-x64-v5.1.tgz
+cd cuda
+sudo cp -Rf lib/* /usr/local/cuda/lib/
+sudo cp include/cudnn.h /usr/local/cuda/include
+```
+
+
 
 
 
