@@ -59,6 +59,8 @@ brew cask install cuda
 
 ### 安装 cuDNN
 
+CuDNN是专门针对Deep Learning框架设计的一套GPU计算加速方案
+
 
 
 
