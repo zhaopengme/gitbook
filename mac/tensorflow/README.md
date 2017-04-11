@@ -9,7 +9,9 @@
 ![](/_resource/mac/tensorflow/n_gpu_cc.png)
 
 
-## 安装 anaconda
+## 安装
+
+### 安装 anaconda
 
 anaconda是一个python 的发行版,里面集成了很多关于python科学计算的第三方库，主要是安装方便，而python是一个编译器，如果不使用anaconda，那么安装起来会比较痛苦，各个库之间的依赖性就很难连接的很好.
 
@@ -20,4 +22,24 @@ brew cask search anaconda
 ```
 
 ![](/_resource/mac/tensorflow/0.png)
+
+安装
+
+```
+brew cask install anaconda
+```
+
+### 安装 cuda
+
+搜索
+
+```
+brew cask search cuda
+```
+安装
+```
+brew install search anaconda
+```
+
+
 
